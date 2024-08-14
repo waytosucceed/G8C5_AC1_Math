@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Is 7,316,820 divisible by 10?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "Is 123 divisible by 9?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "correct": 1,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "Which of the following numbers is divisible by 11?",
+    "options": [
+      "121",
+      "132",
+      "144",
+      "155"
+    ],
+    "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "What is the rule for determining if a number is divisible by 7?",
+    "options": [
+      "The number must end in 7.",
+      "Double the last digit and subtract it from the rest of the number; if the result is divisible by 7, then the original number is divisible by 7.",
+      "The sum of the digits must be divisible by 7.",
+      "The number must be even."
+    ],
+    "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "Which of the following numbers is divisible by 10?",
+    "options": [
+      "701",
+      "103",
+      "322",
+      "450"
+    ],
+    "correct": 3,
+      "img": "./assests/images/5.jpg"
+  }
+]
